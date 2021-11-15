@@ -1,2 +1,2 @@
-client/process.env
+client/src/process.env
 server/configs.env

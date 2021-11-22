@@ -1,0 +1,16 @@
+#input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+}
+
+#howToUse
+{
+  width:27ch;
+}
+
+@media screen and (min-width: 480px) {
+  #howToUse {
+    width:47ch;
+  }
+}
